@@ -1,0 +1,1 @@
+This project is a static marketing website for Kerry's Fine Painting. Modify the homepage, service descriptions, and contact information as needed for the painting business.

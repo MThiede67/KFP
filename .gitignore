@@ -1,0 +1,22 @@
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+node_modules/
+.env
+.idea/
+__pycache__/
+# OS files
+desktop.ini
+
+# Editors
+*.sublime-workspace
+*.sublime-project
+
+# Ignore system files from cameras
+*.CR2
+*.NEF
+*.ARW
+
+# Keep the WEBSITE folder (images) in repo intentionally
+# Do not ignore MEDIA/WEBSITE or image files
